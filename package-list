@@ -1,0 +1,13 @@
+no.ntnu.team5.minvakt
+no.ntnu.team5.minvakt.configs
+no.ntnu.team5.minvakt.controllers.rest
+no.ntnu.team5.minvakt.controllers.web
+no.ntnu.team5.minvakt.data.access
+no.ntnu.team5.minvakt.data.generation
+no.ntnu.team5.minvakt.db
+no.ntnu.team5.minvakt.model
+no.ntnu.team5.minvakt.security
+no.ntnu.team5.minvakt.security.auth
+no.ntnu.team5.minvakt.security.auth.intercept
+no.ntnu.team5.minvakt.security.auth.verify
+no.ntnu.team5.minvakt.utils
